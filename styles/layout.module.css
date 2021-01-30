@@ -1,0 +1,15 @@
+.wrapper {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.main {
+	background: #F9F9F9;
+	font-family: 'SF Pro Display';
+}
+@media all and (min-width: 0px){
+	.wrapper{
+		margin: auto;
+		width:  85%;
+	}
+}
