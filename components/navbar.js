@@ -6,7 +6,7 @@ const NavBar = () =>{
 		<header className={styles.navbarWrapper}>
 			<nav className={styles.topNav, styles.desktopNav}>
 				<ul>
-					<li><Link href="/"><a><img src="images/logo.svg" alt=""/></a></Link></li>
+					<li><Link href="/"><a><img src="images/desktop-logo.png" alt=""/></a></Link></li>
 					<li><Link href="/features"><a>Features</a></Link></li>
 					<li><Link href="/pricing"><a>Pricing</a></Link></li>
 					<li><Link href="/why"><a>Why Gravity</a></Link></li>
@@ -15,7 +15,7 @@ const NavBar = () =>{
 			</nav>
 			<nav className={styles.topNav, styles.mobileNav}>
 				<ul>
-					<li><Link href="/"><a><img src="images/logo.svg" alt=""/></a></Link></li>
+					<li><Link href="/"><a><img src="images/mobile-logo.png" alt=""/></a></Link></li>
 					<li>
 						<button className="">
 							<Link href="/">
