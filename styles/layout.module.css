@@ -13,3 +13,9 @@
 		width:  85%;
 	}
 }
+@media all and (min-width: 2500px){
+	.wrapper{
+		margin: auto;
+		width:  60%;
+	}
+}
