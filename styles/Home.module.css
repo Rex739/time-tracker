@@ -28,7 +28,7 @@
 	}
 	.heroCaption button{
 		outline: none;
-		border: 2px solid #22322F;
+		border: 2px solid #000000;
 		border-radius: 8px;
 		box-shadow: 1px 1px 0 0 #22322F;
 		padding: 0.625rem 1.5rem;
@@ -86,5 +86,6 @@
 		font-family: 'SF Pro Display';
 		font-size: 18px;
 		padding: 1.25rem 1.406rem;
+		box-shadow: 2px 2px 0 0 #22322F;
 	}
 }
