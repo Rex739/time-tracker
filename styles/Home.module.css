@@ -53,6 +53,9 @@
 		width: 80%;
 		margin-left: auto;
 	}
+	.heroCaption{
+		width: 80%;
+	}
 }
 @media all and (min-width: 1440px){
 	.hideMobile{

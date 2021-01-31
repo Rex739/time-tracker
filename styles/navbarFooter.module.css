@@ -96,6 +96,11 @@
 		color: #71A89E;
 	}
 	.footer p{
+		font-size: 16px;
+	}
+}
+@media all and (min-width: 1440px){
+	.footer p{
 		font-size: 24px;
 	}
 }
