@@ -73,7 +73,11 @@
 	}
 	.desktopNav ul li{
 		margin: auto 15px;
+		font-weight: bolder;
 	}
+	/* .desktopNav ul li a{
+		font-weight: bolder
+	} */
 	.desktopNav ul li:first-child{
 		margin-right: auto;
 	}
