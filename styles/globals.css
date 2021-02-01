@@ -1,6 +1,6 @@
 @font-face {
   font-family: "SF Pro Display";
-  src: url("../public/fonts/sfDisplay.ttf");
+  src: url("/fonts/sfDisplay.ttf");
   font-style: normal;
   font-display: swap;
   font-weight: 400
